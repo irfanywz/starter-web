@@ -2,6 +2,12 @@
 
 Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/). Versi mengikuti [SemVer](https://semver.org/lang/id/).
 
+## [0.3.1] - 2026-11-07
+
+### Diubah
+
+- Semua file test dipindah ke folder `tests/` yang mengikuti struktur `src/`. `src/` sekarang hanya berisi kode aplikasi.
+
 ## [0.3.0] - 2026-11-07
 
 ### Ditambahkan

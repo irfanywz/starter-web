@@ -26,7 +26,7 @@ src/
 ├── pages/                 Satu file per route: WorkspacePage, SettingsPage, AboutPage, NotFoundPage
 ├── stores/                State global zustand: useThemeStore, useToastStore, useWorkspaceStore
 ├── lib/                   Helper murni: env, idb, fsAccess, logger, storage, theme, api, download, utils
-└── test/setup.ts          Setup Vitest (jest-dom, fake-indexeddb, cleanup)
+└── tests/setup.ts          Setup Vitest (jest-dom, fake-indexeddb, cleanup)
 ```
 
 ## Route
